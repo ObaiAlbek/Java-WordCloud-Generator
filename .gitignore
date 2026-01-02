@@ -1,0 +1,10 @@
+target/
+*.class
+*.jar
+*.exe
+*.log
+.settings/
+.vscode/
+bin/
+.DS_Store
+wordcloud.html
